@@ -2,7 +2,7 @@
  * Project: Mixer Lib
  * File: src/Mixer.cpp
  *
- * Copyright 2023 Kita LLC
+ * Copyright 2023 Stanley Rokita
  */
 
 #ifndef SRC_MIXER_H_

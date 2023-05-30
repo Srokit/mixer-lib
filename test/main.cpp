@@ -2,7 +2,7 @@
  * Project: Mixer Lib
  * File: test/main.cpp
  *
- * Copyright 2023 Kita LLC
+ * Copyright 2023 Stanley Rokita
  */
 
 int main() {
