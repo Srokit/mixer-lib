@@ -2,6 +2,14 @@
 
 MixerLib is a library that automatically mixes music together.
 
+## Building
+Run
+```
+$ cmake -Bbuild --target all
+```
+MacOS libmixer.dylib library file written under build/ directory
+MacOS test executable written to build/test/mixer_test
+
 ## Method
 
 MixerLib accomplishes this goal by combining the instrumental of one song with the acapella of another.
