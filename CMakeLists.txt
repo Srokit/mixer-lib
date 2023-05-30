@@ -11,3 +11,5 @@ add_library(mixer STATIC ${SOURCE_DIR}/Mixer.cpp)
 
 target_include_directories(mixer PRIVATE ${SOURCE_DIR})
 target_include_directories(mixer PUBLIC ${PUBLIC_INCLUDE_DIR})
+
+add_subdirectory(test)

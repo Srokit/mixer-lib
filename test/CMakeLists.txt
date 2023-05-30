@@ -6,6 +6,4 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS TRUE)
 
 add_executable(mixer_test main.cpp)
 
-include(..)
-
 target_link_libraries(mixer_test mixer)
